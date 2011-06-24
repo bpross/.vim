@@ -1,0 +1,8 @@
+This repo will be used to store my .vim folder.
+
+Purpose:
+Currently the only purpose of the .vim is to turn VIM into a python
+IDE.
+
+I followed this tutorial:
+http://sontek.net/turning-vim-into-a-modern-python-ide
